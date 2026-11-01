@@ -11,8 +11,8 @@
       "name": "emil",
       "description": "Emil Kowalski's design engineering skills (animation, UI polish, Apple design, Swift, Sonner...).",
       "source": {
-        "source": "github",
-        "repo": "emilkowalski/skills"
+        "source": "url",
+        "url": "https://github.com/emilkowalski/skills.git"
       },
       "homepage": "https://emilkowal.ski/skill",
       "strict": false
