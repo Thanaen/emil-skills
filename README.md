@@ -1,6 +1,6 @@
 # emil-skills
 
-Claude Code plugin marketplace that tracks [emilkowalski/skill](https://github.com/emilkowalski/skill) directly, so the skills stay up to date as Emil publishes them.
+Claude Code plugin marketplace that tracks [emilkowalski/skills](https://github.com/emilkowalski/skills) directly, so the skills stay up to date as Emil publishes them.
 
 ```bash
 claude plugin marketplace add Thanaen/emil-skills
