@@ -1,0 +1,21 @@
+{
+  "name": "emil-skills",
+  "owner": {
+    "name": "Thanaen"
+  },
+  "metadata": {
+    "description": "Emil Kowalski's design engineering skills, tracked straight from emilkowalski/skill."
+  },
+  "plugins": [
+    {
+      "name": "emil",
+      "description": "Emil Kowalski's design engineering skills (animation, UI polish, Apple design, Swift, Sonner...).",
+      "source": {
+        "source": "github",
+        "repo": "emilkowalski/skill"
+      },
+      "homepage": "https://emilkowal.ski/skill",
+      "strict": false
+    }
+  ]
+}
